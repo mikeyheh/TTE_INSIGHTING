@@ -1,0 +1,3 @@
+numerator: ~ x1 + x2
+denominator: ~ x1 + x2
+model_type: te_stats_glm_logit
